@@ -1,0 +1,21 @@
+/*
+primercolor rgb(116, 5, 42)
+segundocolor rgb(238,201,100)
+tercercolor rgb(214, 49, 76) */
+.titulo-principal {
+    color:rgb(116, 5, 42);
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+}
+.despedida {
+    color: rgb(116, 5, 42);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.opinion {
+    color:
+}
+ul {
+    background-color: rgb(214, 49, 76);
+}
